@@ -178,7 +178,7 @@ namespace DataVault
 				}
 			}
 			else {
-				Console.WriteLine("da fuck? No values found");
+				//
 			}
 
 			UIBarButtonItem confirmed = new UIBarButtonItem("Accept", UIBarButtonItemStyle.Plain, (sender, e) =>

@@ -453,7 +453,6 @@ namespace DataVault
 					}
 				}
 				catch(InvalidOperationException) {
-					Console.WriteLine("the fuck?");
 				}
 
 				Console.WriteLine("File nt found");
